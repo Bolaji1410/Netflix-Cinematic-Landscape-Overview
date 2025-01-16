@@ -1,5 +1,7 @@
 This analysis provides an insightful overview of the current trends within Netflix's content offerings, utilizing Excel as the primary tool for data analysis with the data gotten from kaggle. The findings highlight key aspects of viewer preferences and content performance, essential for understanding the platform's cinematic landscape.
 
+![Netflix dashbord](https://github.com/user-attachments/assets/c89efb52-6cc9-4d68-84b5-40cbbdb0412e)
+
  # Key Insights:
 
  - Drama and international content are the top genres on Netflix, indicating a strong viewer preference for emotionally engaging stories and diverse narratives.
